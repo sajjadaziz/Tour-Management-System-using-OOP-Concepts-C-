@@ -1,0 +1,30 @@
+Country : Hong Kong
+
+Packages to offer : 3
+
+
+i- Package number 1 :=> cost $8340
+
+-> 8 weeks stay, free transport and free food.
+-> All 5 places.
+-> All 5 attractions.
+-> Five star hotel.
+
+ii- Package number 2 :=> cost $4170
+
+-> 4 weeks stay.
+-> Top 3 places from top 5's.
+-> Top 3 attractions from top 5's.
+-> Five star hotel.
+-> Man Mo temple.
+-> Tsim Sha Tsui east Promenade.
+
+iii- Package number 3 :=> cost $2085
+
+-> 2 weeks stay.
+-> Top 2 places from top 5's.
+-> Top 2 attractions from top 5's.
+-> Five star hotel.
+-> Sky100.
+-> Ocean Park.
+-> Wong tai sin temple.

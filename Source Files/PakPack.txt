@@ -1,0 +1,31 @@
+Country : Pakistan
+
+Packages to offer : 3
+
+
+i- Package number 1 :=> cost $3780
+
+-> 8 weeks stay, free transport and free food.
+-> All 5 places.
+-> All 5 attractions.
+-> Five star hotel.
+
+ii- Package number 2 :=> cost $1890
+
+-> 4 weeks stay.
+-> Top 3 places from top 5's.
+-> Top 3 attractions from top 5's.
+-> Five star hotel.
+-> Complete tour of Islamabad.
+-> Deosai national park.
+
+iii- Package number 3 :=> cost $945
+
+-> 2 weeks stay.
+-> Top 2 places from top 5's.
+-> Top 2 attractions from top 5's.
+-> Five star hotel.
+-> Complete tour of Lahore.
+-> Kallar Kahar's salt range.
+-> Central Karakoram national park..
+-> Juniper forest in Ziarat.

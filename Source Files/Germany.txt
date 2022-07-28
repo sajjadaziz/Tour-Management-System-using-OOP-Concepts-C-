@@ -1,0 +1,88 @@
+Country = Germany
+
+Budget(per month) = $3480
+
+Best time to visit = May
+
+									ABOUT GERMANY :
+
+ Germany is the eighth most visited country in the world. Germany is a Western European country with a 
+ landscape of forests, rivers, mountain ranges and North Sea beaches. It has over 2 millennia of history. 
+
+									TOP 5 PLACES :
+
+1- BERLINS BRANDENBURG GATE :
+ 
+ Modeled on the Acropolis in Athens and built for King Frederick William II in 1791, the monumental sandstone Brandenburg Gate 
+ in Berlin Mitte district was the city first Neoclassical structure. Measuring an impressive 26 meters in height including 
+ the Quadriga, the spectacular four-horse chariot carrying the goddess of victory perched atop its six huge columns on each side 
+ of the structure form five impressive passages, while the center was reserved for the royal carriages. Huge Doric columns 
+ also decorate the two buildings at each side of the Gate, once used by toll-collectors and guards.
+
+2- KONIGSSEE (KINGS LAKE) :
+ 
+ The lovely Bavarian lake of Konigssee is one of the great beauty spots of the region of Germany referred to as Berchtesgadener Land. 
+ Also known as the King's Lake, this area near Salzburg is a hiking paradise thanks to its vast network of trails. One of the most
+ popular things to do is follow the attractive footpath located along the east side of the Konigssee to the Malerwinkel, or Painters
+ Corner, notable for its superb views over the lake and the surrounding mountains.
+
+3- VOLKERSCHLAChHTDENKMAL IN LEIPZIG :
+ 
+ Leipzig is a major city in Saxony, and it is also home to one of the largest monument in Europe. The Volkerschlachtdenkmal, or Monument 
+ of the Battle of the Nations, was built to remember the Battle of Leipzig in the Napoleonic Wars. During the battle, more than 100,000 
+ soldiers perished. Although the battle took place in 1813, the monument was not unveiled until 1913. Today, the monument is accompanied 
+ by a museum exhibit explaining more about the battle and the Napoleonic wars of the 19th century.
+
+4- SCHWERIN CASTLE :
+ 
+ Schwerin Castle in the city of Schwerin is one of the most significant attractions in the state of Mecklenburg-Vorpommern. 
+ The castle is situated on an island in the middle of the Schweriner See, adding to its unusual appeal. Built in the 14th century, 
+ Schwerin Castle is now a seat of government, and it is open for guided and self-guided tours. The castle is said to be haunted by 
+ the ghost of a creature called Petermannchen, and these legends bring in a number of curious visitors each year.
+
+5- ZUGSPITZE : 
+
+ The highest mountain is Germany is the Zugspitze, located above the town of Garmisch. Although the peak is a world-renowned spot for 
+ serious skiers, a trip to the top is worthwhile whatever the season. From a lake at the base of the mountain, hop aboard the Zahnradbahn, 
+ a cogwheel train that heads partway up the mountain. Then, it is onward on the cable car called the Eibsee Seilbahn. At the summit, it is 
+ possible to view the landscape of four countries at once.
+
+
+									OTHER ATTRACTIONS :
+
+1- MINIATUR WONDERLAND.
+
+2- THE RHINE VALLEY.
+
+3- THE BERLIN WALL.
+
+4- THE BLACK FOREST.
+
+5- ROTHENBURG OB DER TAUBER.
+
+
+							   INTERNATIONAL AIRLINES TO REACH GERMANY :
+
+1- CONDOR.
+
+      COMFORT : This airline took pride in their ability to give you an A= experience.
+        
+       ROUTES : This airline only cover one specific route.
+
+ ONBOARD FOOD : There are lesser variety of food to choose in this airline.
+
+2- TUIFLY.
+
+      COMFORT : This airline took pride in their ability to give you an A experience.
+        
+       ROUTES : This airline cover eight specific route.
+
+ ONBOARD FOOD : There are variety of food to choose in this airline.
+
+3- EOURWINGS.
+
+      COMFORT : This airline took pride in their ability to give you an B experience.
+        
+       ROUTES : This airline cover two to three specific route.
+
+ ONBOARD FOOD : There are less variety of food to choose in this airline.

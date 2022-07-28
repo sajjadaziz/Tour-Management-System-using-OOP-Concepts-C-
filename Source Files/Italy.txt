@@ -1,0 +1,87 @@
+Country = Italy
+ 
+Budget(per month) = $4080
+ 
+Best time to visit = April , May , June , September , October 
+
+                                       
+                                                                  ABOUT ITALY :
+
+ Italy, a European country with a long Mediterranean coastline, has left a powerful mark on Western culture and cuisine.
+ Italy is considered to be one of the worlds most culturally and economically advanced countries.The country plays a 
+ prominent role in regional and global economic, military, cultural and diplomatic affairs
+
+ 								  TOP 5 PLACES :
+
+1- COLOSSEUM :
+
+ This huge Amphitheater is the largest of its kind ever built by the Roman Empire and has remained a model for sports facilities
+ right up to modern times. Built as a venue for public spectacles and shows, even mock sea battles. The structure stands in stark
+ contrast to the modern development that surrounds it and is a prominent reminder of ancient times and the extensive history of Rome.
+
+2- LEANING TOWER OF PISA :
+
+ The world famous Pisa Tower was built over a period of about 177 years. Soon after the construction started in 1173 the tower began
+ to sink due to a poorly laid foundation and was left alone for almost a century. When the construction resumed the engineers built 
+ higher floors with one side taller than the other to compensate for the tilt and the tower was finally finished in the 2nd half of
+ the 14th century. Since 2001, the famous tower in Pisa is again open to those wishing to climb its 296 steps.
+
+3- CATHEDRAL OF SANTA MARIA NASCENTE :
+
+ Milans magnificent Cathedral of Santa Maria Nascente, is one of the worlds largest churches.The Duomo, the Cathedral of Santa Maria
+ Nascente, is the most important example of Gothic architecture in Italy.The cathedral roof, constructed from Candoglia marble from 
+ Lago Maggiore, too, presented a unique innovation in the construction of cathedrals.  
+
+4- TREVI FOUNTAIN :
+
+ One of the must-see attractions in the city of Rome is the Trevi Fountain. The fountain was constructed in 1762 by Nicola Salvi,
+ and it depicts the god Neptune surrounded by underwater creatures in battle. Trevi Fountain is known as a place to throw in a coin
+ to secure a return trip to Rome, and throwing two coins can secure a loving relationships with a Roman man or woman. At night, the
+ fountain is illuminated, making it a magical and romantic place to visit.
+
+5- LAKE COMO :
+
+ Lake Como is part of the Italian Lake District an area popular with visitors for well over 100 years for its combination of fresh air, water,
+ mountains and good weather. The lake is shaped much like an inverted Y, with two branches starting at Como in the south-west and Lecco in the
+ south east. The lake is famous for the attractive villas which have been built here since Roman times. Many have admirable gardens which 
+ benefit from the mild climate and are able to include tropical as well as temperate plants. 
+
+
+								OTHER ATTRACTIONS :
+
+1- MOUNT ETNA.
+
+2- SASSI DI MATERA.
+
+3- DOLOMITES.
+
+4- CAPRI.
+
+5- VALLEY OF THE TEMPLES.
+
+
+						     INTERNATIONAL AIRLINES TO REACH ITALY :
+
+1- AIR ITALY.
+
+        COMFORT : This airline took pride in their ability to give you an A+ experience.
+        
+         ROUTES : This airline only cover one specific route.
+
+   ONBOARD FOOD : There are variety of food to choose in this airline.
+
+2- AIR DOLOMITI.
+
+        COMFORT : This airline took pride in their ability to give you an B experience.
+        
+         ROUTES : This airline covers eight specific route.
+
+   ONBOARD FOOD : There are variety of food to choose in this airline.
+
+3- AIR ONE.
+
+        COMFORT : This airline took pride in their ability to give you an A+ experience.
+        
+         ROUTES : This airline only cover one specific route.
+
+   ONBOARD FOOD : There are lesser variety of food to choose in this airline.

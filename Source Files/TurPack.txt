@@ -1,0 +1,31 @@
+Country : Turkey
+
+Packages to offer : 3
+
+
+i- Package number 1 :=> cost $1680
+
+-> 8 weeks stay, free transport and free food.
+-> All 5 places.
+-> All 5 attractions.
+-> Five star hotel.
+-> Complete tour of Istanbul.
+
+ii- Package number 2 :=> cost $840
+
+-> 4 weeks stay.
+-> Top 3 places from top 5's.
+-> Top 3 attractions from top 5's.
+-> Five star hotel.
+-> Complete tour of Ankara.
+-> Complete tour of Izmir.
+
+iii- Package number 3 :=> cost $420
+
+-> 2 weeks stay.
+-> Top 2 places from top 5's.
+-> Top 2 attractions from top 5's.
+-> Five star hotel.
+-> Complete tour of Bodrum.
+-> Tour of Marmaris.
+-> Tour of Side.

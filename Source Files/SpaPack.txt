@@ -1,0 +1,30 @@
+Country : Spain
+
+Packages to offer : 3
+
+
+i- Package number 1 :=> cost $2400
+
+-> 8 weeks stay, free transport and free food.
+-> All 5 places.
+-> All 5 attractions.
+-> Five star hotel.
+
+ii- Package number 2 :=> cost $1200
+
+-> 4 weeks stay.
+-> Top 3 places from top 5's.
+-> Top 3 attractions from top 5's.
+-> Five star hotel.
+-> Complete tour of Seville.
+-> San Sebastian.
+
+iii- Package number 3 :=> cost $600
+
+-> 2 weeks stay.
+-> Top 2 places from top 5's.
+-> Top 2 attractions from top 5's.
+-> Five star hotel.
+-> Complete tour of Barcelona.
+-> Santiago de Compostela.
+-> Tour of Toledo.

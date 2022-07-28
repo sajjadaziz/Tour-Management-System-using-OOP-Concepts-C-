@@ -1,0 +1,90 @@
+Country = France
+
+Budget(per month) = $4850
+
+Best time to visit = April , May , June , September , October , November
+
+                                                                ABOUT FRANCE :
+  
+
+ France, in Western Europe, encompasses medieval cities, alpine villages and Mediterranean beaches. 
+ Paris, its capital, is famed for its fashion houses, classical art museums including the Louvre and monuments 
+ like the Eiffel Tower. 
+
+                                                                TOP 5 PLACES :
+
+
+1- EIFFEL TOWER :
+ 
+ The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the 
+ engineer Gustave Eiffel, whose company designed and built the tower. it was initially criticised by some of France 
+ leading artists and intellectuals for its design, but it has become a global cultural icon of France and one of the 
+ most recognisable structures in the world. The Eiffel Tower is the most visited paid monument in the world.
+
+2- LOUVRE MUSEUM :
+ 
+ The Louvre, or the Louvre Museum, is the world's largest art museum and a historic monument in Paris, France. 
+ A central landmark of the city. In 2018, the Louvre was the world's most visited art museum. The museum is housed in 
+ the Louvre Palace, originally built as the Louvre castle in the late 12th to 13th century under Philip II. Remnants 
+ of the fortress are visible in the basement of the museum.
+
+3- CATHEDRALE NOTRE DAME DE PARIS :
+ 
+ Notre-Dame de Paris, referred to simply as Notre-Dame, is a medieval Catholic cathedral on the Ile de la Cite in the 
+ 4th arrondissement of Paris. The cathedral was consecrated to the Virgin Mary and considered to be one of the finest 
+ examples of French Gothic architecture. Notre Dame suffered desecration during the French Revolution , much of its religious 
+ imagery was damaged or destroyed.  
+
+4- THE PALACE OF VERSAILLES :
+ 
+ It was the principal royal residence of France from 1682, under Louis XIV, until the start of the French Revolution in 1789, 
+ under Louis XVI. The palace is now an historical monument and UNESCO World Heritage site, notable especially for the 
+ ceremonial Hall of Mirrors, it the second-most visited monument in the Ile de France region, just behind the Louvre and ahead 
+ of the Eiffel Tower.
+
+5- THE ARC DE TRIOMPHE DE l ETOILE :
+ 
+ It is one of the most famous monuments in Paris, France, standing at the western end of the Champs-Elysees at the centre of 
+ Place Charles de Gaulle, formerly named Place de l Etoile ,the etoile or star of the juncture formed by its twelve radiating avenues. 
+ 
+
+                                                               OTHER ATTRACTIONS :
+
+
+1- MONT SAINT MICHEL.
+
+2- BIARRITZ AND SAINT JEAN DE LUZ.
+
+3- THE ALSACE REGION.
+
+4- PREHISTORIC CAVES IN THE DORDOGNE AND THE PYRENEES.
+
+5- ISLAND OF CORSICA.
+
+
+						   INTERNATIONAL AIRLINES TO REACH FRANCE :
+
+
+1- CORSAIR INTERNATIONAL.
+
+        COMFORT : This airline took pride in their ability to give you an A+ experience.
+        
+         ROUTES : This airline only cover one specific route.
+
+   ONBOARD FOOD : There are variety of food to choose in this airline.
+
+2- AIR FRANCE.
+
+        COMFORT : This airline took pride in their ability to give you an A+ experience.
+        
+         ROUTES : This airline only cover one specific route.
+
+   ONBOARD FOOD : There are variety of food to choose in this airline.
+
+3- AIR CORSICA.
+
+        COMFORT : This airline took pride in their ability to give you an A experience.
+        
+         ROUTES : This airline cover two to three specific route.
+
+   ONBOARD FOOD : There are less variety of food to choose in this airline.

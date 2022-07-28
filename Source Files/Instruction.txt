@@ -1,0 +1,32 @@
+
+  
+                           *********************** WELCOME TO THE TOUR MANAGEMENT SYSTEM ***********************
+
+       **See the world. It is more fantastic than any dream made or paid for in factories. Ask for no guarantees, ask for no security.**
+
+
+       *Please read the following instructions carefully before proceeding :
+
+
+                    -> Avoid spelling mistakes.
+                   
+                    -> Program will not entertain customers less then 18 years old.
+
+                    -> Program entertaines Customer with minimum budget of $840.
+
+                    -> 5% discount for 5 members, 10% for more than 5 members, 20% for 10 and more than 10 members.
+
+                    -> Program contain 12 countries tour, which are :                      
+
+                            => USA           => Australia                         
+
+                            => UAE           => Pakistan                         
+
+                            => UK            => Turkey                         
+
+                            => Hong Kong     => Italy                         
+
+                            => Spain         => Germany                         
+
+                            => Canada        => France          
+
